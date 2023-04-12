@@ -1,9 +1,9 @@
 # reto-clase-4
-muesta un escena de una esfera a la cual se le aplico un material PBR ademas de luces y sombreas
+Este proyecto es una aplicación de renderizado en tiempo real que muestra una esfera 3D con un material físicamente basado (PBR), junto con efectos de iluminación y sombras realistas.
 
 ## Capturas de pantalla (opcional)
 
-![screenshot](/phot_reto4.png)
+![screenshot](/photo_reto4.png)
 
 ## Instalación
 
