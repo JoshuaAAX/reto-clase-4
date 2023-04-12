@@ -1,4 +1,4 @@
-# reto-clase-4
+# reto clase 4
 Este proyecto es una aplicación de renderizado en tiempo real que muestra una esfera 3D con un material físicamente basado (PBR), junto con efectos de iluminación y sombras realistas.
 
 ## Capturas de pantalla (opcional)
